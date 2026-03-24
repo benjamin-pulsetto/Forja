@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Forja.Core/Forja.Core.csproj" />
+    <Project Path="src/Forja.Web/Forja.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Forja.Core.Tests/Forja.Core.Tests.csproj" />
+  </Folder>
+</Solution>
